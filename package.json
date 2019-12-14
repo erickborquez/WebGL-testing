@@ -1,0 +1,25 @@
+{
+  "name": "WebGL-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickJoestar/WebGL-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickJoestar/WebGL-testing/issues"
+  },
+  "homepage": "https://github.com/ErickJoestar/WebGL-testing#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.1",
+    "canvas-sketch-util": "^1.10.0",
+    "nice-color-palettes": "^3.0.0"
+  }
+}
